@@ -216,7 +216,7 @@ ul.list-unstyled {
 
 /* Seção Palestrantes */
 .palestrantes {
-  background-image: url(/img/fundo-1.jpg);
+  background-image: url(../img/fundo-1.jpg);
   background-size: cover;
   background-position: left;
   padding-bottom: 60px;
@@ -555,7 +555,7 @@ ul.list-unstyled {
 
 
 .local {
-  background-image: url(img/fundo-1.jpg); /* Fundo personalizado */
+  background-image: url(../img/fundo-1.jpg); /* Fundo personalizado */
   padding-bottom: 60px;
  
 }
