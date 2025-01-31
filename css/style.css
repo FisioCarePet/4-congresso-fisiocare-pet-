@@ -555,7 +555,7 @@ ul.list-unstyled {
 
 
 .local {
-  background-image: url(/img/fundo-1.jpg); /* Fundo personalizado */
+  background-image: url(img/fundo-1.jpg); /* Fundo personalizado */
   padding-bottom: 60px;
  
 }
